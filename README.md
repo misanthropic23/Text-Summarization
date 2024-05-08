@@ -9,3 +9,19 @@
 6. update the pipeline
 7. update the main.py
 8. update the app.py
+
+# How to use this project
+
+## Method: 1 (For training the model on your hardware)
+1. Clone this repository
+2. Create a new environment
+3. Run requirements.txt 
+4. Remove the artifacts folder 
+5. Run app.py
+
+## Method: 2 (For using the trained model)
+1. Clone this repository
+2. Create a new environment
+3. Run requirements.txt
+4. Run app.py
+
